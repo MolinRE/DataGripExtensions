@@ -2,7 +2,7 @@
 
 ## Scripts
 
-(C#-Enum.cs.groovy)[https://github.com/MolinRE/DataGripExtensions/blob/main/C%23-Enum.cs.groovy] - Export table as C# enum.  
+[C#-Enum.cs.groovy](https://github.com/MolinRE/DataGripExtensions/blob/main/C%23-Enum.cs.groovy) - Export table as C# enum.  
 Table columns must be (Id, Name, Description, ...).
 
 ## Resources:
